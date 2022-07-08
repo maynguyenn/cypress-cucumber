@@ -1,3 +1,3 @@
 # cypress-cucumber
-npm i
-npx cypress open
+1. npm i
+2. npx cypress open
